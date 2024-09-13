@@ -59,4 +59,9 @@ To play the Simon Game on your local machine:
 - CSS: For styling the game interface.
 - JavaScript: For game logic and interactivity.
 
+## Author ##
+
+Akash Chandra Verma \
+LinkedIn : https://www.linkedin.com/in/akashchandraverma/
+
 ## Thank You &#10084;
