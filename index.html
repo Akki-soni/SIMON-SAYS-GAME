@@ -1,36 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Simon Says Game</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>Simon Says Game<h1>
-    <h2>Instruction : "How to Play"</h2>
-    <h3><p>First : "Press any key to start the game"</p></h3>
-    <h3><p>Second : Check Which Box is Flashed , Click the Flashed Box</p></h3>
-    <h3><p>Then Again, Another Box is Flashed, So Click the First Box Which Was Clicled Before and then clicked the new Box Flashed </p></h3>
+    <link rel="icon" href="./sound/simon says.jpeg" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <audio class="endSound" controls src="./sound/EndGame.mp3"></audio>
+    <audio class="btnSound" controls src="./sound/tabsound.mp3"></audio>
+    <audio class="sbtnSound" controls src="./sound/StartGame.mp3"></audio>
+
+    <h1 class="Gname">Simon Say Game</h1>
+    <h2 class="level">Press Start Button To Start</h2>
+    <form action="rules.html">
+      <button class="rule">GAME RULE</button>
+    </form>
+    <button class="start">Start</button>
 
     <div class="btn-container">
-        <div class="line-one">
-            <div class="btn red" type = "button" id="red"></div>
-            <div class="btn yellow" type = "button" id="yellow"></div>
-        </div>
-        <div class="line-two">
-            <div class="btn green" type = "button" id="green"></div>
-            <div class="btn purple" type = "button" id="purple"></div>
-        </div>
-        <div class="line-one">
-            <div class="btn magenda" type = "button" id="magenda"></div>
-            <div class="btn aqua" type = "button" id="aqua"></div>
-        </div>
-        <div class="line-two">
-            <div class="btn burlywood" type = "button" id="burlywood"></div>
-            <div class="btn hotpink" type = "button" id="hotpink"></div>
-        </div>
+      <div class="line-one">
+        <div class="btn red" type="button" id="red"><p>1</p></div>
+        <div class="btn yellow" type="button" id="yellow"><p>2</p></div>
+      </div>
+      <div class="line-two">
+        <div class="btn green" type="button" id="green"><p>3</p></div>
+        <div class="btn purple" type="button" id="purple"><p>4</p></div>
+      </div>
+      <div class="line-three">
+        <div class="btn magenda" type="button" id="magenda"><p>5</p></div>
+        <div class="btn aqua" type="button" id="aqua"><p>6</p></div>
+      </div>
+      <div class="line-four">
+        <div class="btn burlywood" type="button" id="burlywood"><p>7</p></div>
+        <div class="btn hotpink" type="button" id="hotpink"><p>8</p></div>
+      </div>
     </div>
+    <h1 class="highscore"></h1>
     <script src="app.js"></script>
-</body>
+  </body>
 </html>
