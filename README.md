@@ -40,7 +40,7 @@ To play the Simon Game on your local machine:
 
 2. Navigate to the project directory:
 
-   cd simon-say-game
+   run (index.html) file...
 
 3. Open the index.html file in your web browser to start the game.
 
