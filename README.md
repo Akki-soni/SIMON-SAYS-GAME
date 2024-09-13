@@ -36,7 +36,7 @@ To play the Simon Game on your local machine:
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Akki-soni/SIMON-SAYS-GAME.git
 
 2. Navigate to the project directory:
 
