@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
 </p>
 
 <p align="center">
@@ -20,9 +21,10 @@
 
 ## 🚀 Features
 
-- **Homepage**: Displays recent playlists and trending songs.
-- **Music Playback**: Includes a working play/pause button, a progress bar, and volume control.
-- **Responsive Design**: Works on both desktop and mobile screens.
+- **Engaging Gameplay**: Simple yet challenging gameplay that improves memory and cognitive skills.
+- **Visual and Auditory Feedback**: Each button produces a unique color and sound, enhancing the sensory experience.
+- **Progressive Difficulty**: As the sequence grows, the challenge increases, keeping the game engaging.
+- **Multiplayer Option**: Some versions of Simon offer a multiplayer mode, allowing players to compete for the highest score.
 
 ## 🛠️ Technologies Used
 
@@ -30,13 +32,48 @@
 - **CSS**: For styling the game interface.
 - **JavaScript**: For game logic and interactivity.
 
+## 🛠️ Installation
+
+To play the Simon Game on your local machine:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Akki-soni/SIMON-SAYS-GAME.git
+
+2. Navigate to the project directory:
+
+   run (index.html) file...
+
+3. Open the index.html file in your web browser to start the game.
+
+## How It Works
+
+1. **Gameplay**:
+   - The game board consists of Eight buttons, each with a different color (typically red, yellow, green, purple, magenda, aqua, burlywood and hotpink) and corresponding sound.
+   - The game begins by lighting up one of the buttons and playing its sound.
+   - The player must press the lighting button to repeat the sequence.
+   - With each round, the game adds an additional step to the sequence.
+   - The player must remember and reproduce the entire sequence in the correct order.
+
+2. **Objective**:
+   - The goal is to correctly repeat the sequence of lights and sounds for as long as possible.
+   - As the sequence lengthens, it becomes more challenging, testing the player’s memory and concentration.
+   - The game ends when the player makes a mistake in the sequence.
+
+3. **Difficulty Levels**:
+   - Some versions of the game offer different difficulty levels, which may affect the speed at which the sequence is displayed or the complexity of the patterns.
+
+4. **Scoring**:
+   - Points are awarded for each correct sequence.
+   - The longer the sequence, the higher the score.
+
 ## 🌟 Screenshots
 
-![Spotify Clone Screenshot](/Images/Screenshot.png)
+![Simon Says Game Screenshot](/Images/Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://spotify-tan-iota.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
@@ -64,85 +101,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## Thank You &#10084;
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## How It Works
-
-1. **Gameplay**:
-   - The game board consists of Eight buttons, each with a different color (typically red, yellow, green, purple, magenda, aqua, burlywood and hotpink) and corresponding sound.
-   - The game begins by lighting up one of the buttons and playing its sound.
-   - The player must press the lighting button to repeat the sequence.
-   - With each round, the game adds an additional step to the sequence.
-   - The player must remember and reproduce the entire sequence in the correct order.
-
-2. **Objective**:
-   - The goal is to correctly repeat the sequence of lights and sounds for as long as possible.
-   - As the sequence lengthens, it becomes more challenging, testing the player’s memory and concentration.
-   - The game ends when the player makes a mistake in the sequence.
-
-3. **Difficulty Levels**:
-   - Some versions of the game offer different difficulty levels, which may affect the speed at which the sequence is displayed or the complexity of the patterns.
-
-4. **Scoring**:
-   - Points are awarded for each correct sequence.
-   - The longer the sequence, the higher the score.
-
-## Features
-
-- **Engaging Gameplay**: Simple yet challenging gameplay that improves memory and cognitive skills.
-- **Visual and Auditory Feedback**: Each button produces a unique color and sound, enhancing the sensory experience.
-- **Progressive Difficulty**: As the sequence grows, the challenge increases, keeping the game engaging.
-- **Multiplayer Option**: Some versions of Simon offer a multiplayer mode, allowing players to compete for the highest score.
-
-## Installation
-
-To play the Simon Game on your local machine:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Akki-soni/SIMON-SAYS-GAME.git
-
-2. Navigate to the project directory:
-
-   run (index.html) file...
-
-3. Open the index.html file in your web browser to start the game.
-
-## Technologies Used
-   
-- HTML: 
-- CSS: 
-- 
-
-
-
-
