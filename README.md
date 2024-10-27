@@ -69,7 +69,7 @@ To play the Simon Game on your local machine:
 
 ## 🌟 Screenshots
 
-![Simon Says Game Screenshot](/SSGScreenshot.png)
+![Simon Says Game Screenshot](/SSG_Screenshot.png)
 
 ## 🔗 Live Demo
 
