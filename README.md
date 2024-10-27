@@ -73,7 +73,7 @@ To play the Simon Game on your local machine:
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://simon-says-game-plum.vercel.app/)
 
 ## 🤝 Contributing
 
