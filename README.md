@@ -7,9 +7,93 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Description
+<h1 align="center">Simon Says Game</h1>
 
-The Simon Game is a classic electronic memory game that challenges players to repeat a growing sequence of colors and sounds. Originating from the 1978 arcade game by Ralph H. Baer and Howard J. Morrison, Simon has become a beloved game for all ages.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+</p>
+
+<p align="center">
+  The Simon Game is a classic electronic memory game that challenges players to repeat a growing sequence of colors and sounds. Originating from the 1978 arcade game by Ralph H. Baer and Howard J. Morrison,        Simon has become a beloved game for all ages.
+</p>
+
+## 🚀 Features
+
+- **Homepage**: Displays recent playlists and trending songs.
+- **Music Playback**: Includes a working play/pause button, a progress bar, and volume control.
+- **Responsive Design**: Works on both desktop and mobile screens.
+
+## 🛠️ Technologies Used
+
+- **HTML**: For structuring the game layout.
+- **CSS**: For styling the game interface.
+- **JavaScript**: For game logic and interactivity.
+
+## 🌟 Screenshots
+
+![Spotify Clone Screenshot](/Images/Screenshot.png)
+
+## 🔗 Live Demo
+
+[View Live Demo](https://spotify-tan-iota.vercel.app/)
+
+## 🤝 Contributing
+
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## 🙏 Acknowledgments
+
+- [Google Fonts](https://fonts.google.com/) for the font families used in the design.
+- [Font Awesome](https://fontawesome.com/) for the icons used in the application.
+
+## 🌐 Socials
+
+<div align="center">
+
+[![Visit My Profile](https://img.shields.io/badge/Visit%20My%20Profile-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashchandraverma/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akki-soni)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
+
+<a href="">
+  <img src="Images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+</a>
+
+## Thank You &#10084;
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## How It Works
 
@@ -55,13 +139,10 @@ To play the Simon Game on your local machine:
 
 ## Technologies Used
    
-- HTML: For structuring the game layout.
-- CSS: For styling the game interface.
-- JavaScript: For game logic and interactivity.
+- HTML: 
+- CSS: 
+- 
 
-## Author ##
 
-Akash Chandra Verma \
-LinkedIn : https://www.linkedin.com/in/akashchandraverma/
 
-## Thank You &#10084;
+
